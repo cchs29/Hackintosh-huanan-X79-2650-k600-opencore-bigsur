@@ -1,0 +1,1 @@
+# Hackintosh-huanan-X79-2650-k600-opencore-bigsur
